@@ -1,1 +1,0 @@
-# Katas-8-kyu-CodeWars-
