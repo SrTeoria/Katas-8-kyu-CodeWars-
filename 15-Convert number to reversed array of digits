@@ -6,7 +6,6 @@
 
 function digitize(n) {
   let arr = n.toString().split('')
-  // arr = arr.reverse()
   return console.log(arr.reverse())
 }
 digitize(35231)
